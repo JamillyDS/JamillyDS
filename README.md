@@ -5,7 +5,7 @@
 
 Sou Jamilly, tenho 18 anos.
 
-Desenvolvedora Júnior com foco em Desenvolvimento de sistemas e Full-Stack . Sou apaixonada por tecnologia e pela construção de soluções digitais eficientes e escaláveis.
+Desenvolvedora Júnior com foco em Desenvolvimento de sistemas, software e full-stack . Sou apaixonada por tecnologia e pela construção de soluções digitais eficientes e escaláveis.
 Minha jornada na programação começou com o objetivo de transformar ideias em realidade através do código.
 
 <p>
