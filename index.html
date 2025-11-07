@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>calculadora simples</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;  /* Centraliza na horizontal */
+            align-items: center;      /* Centraliza na vertical */
+            height: 100vh;            /* Faz o body ocupar toda a altura da janela */
+            margin: 0;                /* Remove espaçamento padrão */
+            background: linear-gradient(to right, #000080, #0000FF, #191970);
+        }
+
+        .quadrado{
+          display: flex;
+          flex-direction: column;    /* Coloca os elementos em coluna */
+          align-items: center;       /* Centraliza os itens no meio */
+          gap: 15px;                 /* Espaço entre os elementos dentro do quadrado */
+          font-size: 16px;
+          background: rgba(248, 248, 255, 0.4);
+          padding: 25px 40px;
+          border-radius: 12px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+          border-radius: 12px;
+        }
+
+        .title{
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 25px;
+            gap: 5%;
+            color: white;
+        }
+
+         input[type="number"] {
+           width: 200px;              /* Largura das caixas de texto */
+           padding: 8px;
+           border: none;
+           border-radius: 8px;
+           text-align: center;
+           font-size: 16px;
+           outline: none;
+        }
+
+        button{
+            border-radius: 6px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            background: #0000FF;
+            color: white;
+        }
+
+        button:hover{
+            color: black;
+            background: white;
+            font-size: 20px;
+        }
+
+        p{
+            color: white;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+          </style>
+</head>
+<body>
+    
+    <div class="quadrado">
+        <h1 class="title">Calculadora Simples</h1>
+        <div class="nu">
+            <input type="number" id="a" class="number1" placeholder="Primeiro Número">
+        </div>
+        <div class="nu">
+            <input type="number" id="b" class="number2" placeholder="Segundo Número">
+        </div>
+        <div class="button">
+            <button type="button" id="enviar">Resultado</button>
+        </div>
+        <p class="resu" id="resultado"></p>
+    </div>
+
+    <script>
+         // Quando o botão for clicado...
+  document.getElementById("enviar").addEventListener("click", function() {
+    let a = Number(document.getElementById("a").value);
+    let b = Number(document.getElementById("b").value);
+    let soma = a + b;
+
+    // Exibe o resultado só agora!
+    document.getElementById("resultado").textContent = `Resultado: ${soma}`;
+  });
+    </script>
+
+</body>
+</html>
