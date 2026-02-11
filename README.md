@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: I want to become a skilled Software and Game Developer.<br>🎲 Fun fact: I'm developing projects to improve my skills, I'm a Stardew Valley lover.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java<br>🎯 Goals: I want to become a skilled Software and Game Developer.<br>🎲 Fun fact: I'm developing projects to improve my skills, I'm a Stardew Valley lover.</p>
 
 ###
 
