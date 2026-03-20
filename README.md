@@ -2,21 +2,13 @@
 
 ###
 
-<p align="left">My name is Jamilly and I'm a software programmer junior, from São Paulo</p>
+<p align="left">My name is Jamilly and I'm a dev full-stack junior, from São Paulo</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java<br>🎯 Goals: I want to become a skilled Software and Game Developer.<br>🎲 Fun fact: I'm developing projects to improve my skills, I'm a Stardew Valley lover.</p>
 
 ###
 
 <h2 align="left">I code with</h2>
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -31,6 +23,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
+
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java<br>🎯 Goals: I want to become a skilled Software and Game Developer.<br>🎲 Fun fact: I'm developing projects to improve my skills, I'm a Stardew Valley lover.</p>
 
 ###
 
