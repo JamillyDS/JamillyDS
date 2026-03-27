@@ -47,10 +47,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/40/09/94/400994f69a481d208d6a54333f3ac9df.gif"  />
-</div>
-
 ###
 
 <div align="left">
