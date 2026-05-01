@@ -4,15 +4,19 @@
 
 ###
 
-<h1 align="center">Hey😋What's up?</h1>
+<h1 align="center">IAE😋</h1>
 
 ###
 
-<p align="left">My name is Jamilly and I'm a dev full-stack junior, from São Paulo.</p>
+<p align="left">Meu nome é Jamilly e sou de São Paulo.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">Sou uma Dev Júnior de 18 anos, em busca de aprofundar meus conhecimentos de Programação, faço projetos para treinar e principalmente estudar. Atualmente finalizei o Ensino Médio com diploma de Desenvolvimento de Sistemas, e estou em busca de uma oportunidade de evoluir profissionalmente.</p>
+
+###
+
+<h2 align="left">Eu Costumo usar essas Linguagens.</h2>
 
 ###
 
@@ -30,11 +34,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: I want to become a skilled Software and Game Developer.<br>🎲 Fun fact: I'm developing projects to improve my skills, I'm a Stardew Valley lover.</p>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
