@@ -12,6 +12,10 @@
 
 ###
 
+<h2 align="left">Sobre Mim</h2>
+
+###
+
 <p align="left">Sou uma Dev Júnior de 18 anos, em busca de aprofundar meus conhecimentos de Programação, faço projetos para treinar e principalmente estudar. Atualmente finalizei o Ensino Médio com diploma de Desenvolvimento de Sistemas, e estou em busca de uma oportunidade de evoluir profissionalmente.</p>
 
 ###
@@ -31,10 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
-
-<h2 align="left">Sobre Mim</h2>
 
 ###
 
