@@ -4,11 +4,7 @@
 
 ###
 
-<h1 align="center">IAE😋</h1>
-
-###
-
-<p align="left">Meu nome é Jamilly e sou de São Paulo.</p>
+<h1 align="center">Olá, eu sou a Jamilly! 👋</h1>
 
 ###
 
@@ -16,7 +12,14 @@
 
 ###
 
-<p align="left">Sou uma Dev Júnior de 18 anos, em busca de aprofundar meus conhecimentos de Programação, faço projetos para treinar e principalmente estudar. Atualmente finalizei o Ensino Médio com diploma de Desenvolvimento de Sistemas, e estou em busca de uma oportunidade de evoluir profissionalmente.</p>
+<p align="left">
+Sou um estudante de Desenvolvimento de Software apaixonado por transformar ideias em interfaces funcionais e atraentes. Meu foco principal é o ecossistema JavaScript, onde busco constantemente as melhores práticas para criar experiências incríveis para o usuário.
+
+🌱 Atualmente aprimorando meus conhecimentos em React.js / Next.js.
+
+💻 No meu portfólio, você encontrará projetos que refletem minha jornada e evolução técnica.
+
+🤝 Acredito no poder da colaboração e estou em busca de uma oportunidade para contribuir em projetos reais e aprender com times experientes.</p>
 
 ###
 
