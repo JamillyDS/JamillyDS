@@ -13,9 +13,9 @@
 ###
 
 <p align="left">
-Sou um estudante de Desenvolvimento de Software apaixonado por transformar ideias em interfaces funcionais e atraentes. Meu foco principal é o ecossistema JavaScript, onde busco constantemente as melhores práticas para criar experiências incríveis para o usuário.
+Sou Desenvolvedora de Software Junior, adoro tecnolgia e criação, tenho 18 anos e tenho conhecimento em HTML, CSS, Java Script.
 
-🌱 Atualmente aprimorando meus conhecimentos em React.js / Next.js.
+🌱 Atualmente aprimorando meus conhecimentos em React.js / Next.js / Node.js.
 
 💻 No meu portfólio, você encontrará projetos que refletem minha jornada e evolução técnica.
 
