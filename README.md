@@ -211,7 +211,7 @@ currently_learning:
 
 <td width="50%" valign="top">
 
-### ⚔️ Projeto Gamma
+<!-- ### ⚔️ Projeto Gamma
 
 <a href="https://github.com/SEU_USUARIO/PROJETO_3">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
@@ -225,9 +225,9 @@ currently_learning:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top">-->
 
-### 👑 Projeto Final Boss
+<!-- ### 👑 Projeto Final Boss
 
 <a href="https://github.com/SEU_USUARIO/PROJETO_4">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
@@ -239,7 +239,7 @@ currently_learning:
 
 `Full Stack` `Cloud` `Open Source`
 
-</td>
+</td>-->
 
 </tr>
 </table>
@@ -276,8 +276,7 @@ STATUS: QUEST IN PROGRESS...
 
 <div align="center">
 
-<a href="https://github.com/JamillyDS">
-
+<!--<a href="https://github.com/JamillyDS">
 <img
 height="180"
 src="https://github-readme-stats.vercel.app/api?username=JamillyDS&show_icons=true&hide_border=true&bg_color=161616&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF&rank_icon=github"
@@ -292,7 +291,7 @@ alt="Top Languages"
 
 </a>
 
-<br><br>
+<br><br>-->
 
 <img
 src="https://streak-stats.demolab.com?user=JamillyDS&theme=dark&hide_border=true&background=161616&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=FFFFFF&dates=AAAAAA"
@@ -320,7 +319,7 @@ alt="GitHub Activity Graph"
 
 ---
 
-# 🏆 GITHUB TROPHIES
+<!--# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -351,7 +350,7 @@ width="100%"
 
 > **Nota:** para o Pac-Man funcionar, configure o workflow do repositório de perfil para gerar `pacman-contribution-graph.svg` na branch `output`.
 
----
+--- -->
 
 # 🎯 PLAYER STATS
 
@@ -421,7 +420,7 @@ width="100%"
 <img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
-<a href="https://github.com/JamillyDS">
+<a href="https://github.com/JamillyDS/Portifolio">
 <img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=google-chrome&logoColor=FFD43B" alt="Portfolio"/>
 </a>
 
