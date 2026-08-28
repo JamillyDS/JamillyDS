@@ -1,207 +1,238 @@
-<!-- =========================================================
-     🎮 GITHUB PROFILE README — GAME EDITION
-     Substitua Jamilly pelo seu username do GitHub.
-========================================================= -->
-
 <div align="center">
 
-<!-- ───────────────────────────── HERO ───────────────────────────── -->
-
-<a href="https://github.com/JamillyDS">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2800&pause=900&color=FFD43B&center=true&vCenter=true&width=850&height=70&lines=%3E+PLAYER+1+%7C+JamillyDS;%3E+FULL+STACK+DEVELOPER;%3E+CODE.+BUILD.+PLAY.;%3E+WELCOME+TO+MY+GITHUB."
-    alt="Typing Animation"
-  />
-</a>
-
-<br>
+<!-- ╔════════════════════════════════════════════════════════╗
+     ║                     HERO / UNIVERSE                  ║
+     ╚════════════════════════════════════════════════════════╝ -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:161616,50:2A2100,100:FFD43B&text=GAME%20DEV%20MODE&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Loading%20next%20adventure...&descAlignY=68&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:0B1736,75:102A56,100:172554&text=✦%20COSMIC%20ADVENTURE%20✦&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Welcome%20to%20my%20digital%20universe&descAlignY=62&descSize=17&animation=fadeIn"
 width="100%"
-alt="Game Banner"
+alt="Cosmic Adventure Banner"
 />
 
 <br>
 
-<!-- GAME STATUS -->
-
-<table>
-<tr>
-<td align="center" width="180">
-
-### 🟨 PLAYER
-
-**Jamilly**
-
-</td>
-<td align="center" width="180">
-
-### 🎮 CLASS
-
-**Developer**
-
-</td>
-<td align="center" width="180">
-
-### ⭐ LEVEL
-
-**∞**
-
-</td>
-<td align="center" width="180">
-
-### 🪙 COINS
-
-**∞**
-
-</td>
-</tr>
-</table>
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=70&lines=%3E+HELLO%2C+TRAVELER+%F0%9F%91%8B;%3E+I'M+Jamilly+%E2%9C%A8;%3E+DEVELOPER+%7C+CREATOR+%7C+EXPLORER;%3E+BUILDING+WORLDS+WITH+CODE;%3E+WELCOME+TO+MY+GITHUB+GALAXY."
+alt="Typing Animation"
+/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge\&logo=github\&logoColor=FFD43B)](https://github.com/JamillyDS)
-[![Followers](https://img.shields.io/github/followers/JamillyDS?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=FFD43B\&labelColor=161616)](https://github.com/JamillyDS?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=JamillyDS\&style=for-the-badge\&color=FFD43B\&labelColor=161616)](https://github.com/JamillyDS)
+[![GitHub](https://img.shields.io/badge/GITHUB-050816?style=for-the-badge\&logo=github\&logoColor=67E8F9)](https://github.com/JamillyDS)
+[![Followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=for-the-badge\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS)
+
+<br><br>
+
+<!-- STATUS PANEL -->
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+🌌
+**WORLD**
+
+<br>
+
+`DIGITAL`
+
+</td>
+
+<td align="center" width="180">
+
+⭐
+**LEVEL**
+
+<br>
+
+`Junior`
+
+</td>
+
+<td align="center" width="180">
+
+💎
+**XP**
+
+<br>
+
+`LOADING...`
+
+</td>
+
+<td align="center" width="180">
+
+🚀
+**STATUS**
+
+<br>
+
+`ONLINE`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🕹️ `START GAME`
+# 🌌 `WELCOME, TRAVELER`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PLAYER PROFILE SYSTEM                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   > Booting developer profile...                             ║
-║   > Loading creativity................. [██████████] 100%    ║
-║   > Loading curiosity.................. [██████████] 100%    ║
-║   > Loading coffee..................... [██████████] 100%    ║
-║   > Loading bugs........................ [██████████] 100%   ║
-║                                                              ║
-║   STATUS: ONLINE                                             ║
-║   MISSION: BUILD SOMETHING AWESOME                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                    ✦ GALAXY SYSTEM ONLINE ✦                 │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   ◇ Scanning universe............................. DONE      │
+│   ◇ Loading creativity............................ DONE      │
+│   ◇ Loading curiosity............................. DONE      │
+│   ◇ Loading imagination........................... DONE      │
+│   ◇ Searching for new adventures.................. FOUND     │
+│                                                              │
+│   CURRENT LOCATION: /github/universe                        │
+│   MISSION: CREATE • LEARN • EXPLORE                          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-## 🌻 Sobre Mim
+> ✦ **Every repository is a world. Every commit is a new discovery.**
 
-<img align="right" width="280" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding animation">
+---
 
-Olá! Eu sou **Jamilly**, desenvolvedora apaixonada por tecnologia, criatividade e construção de experiências digitais.
+# 👨‍🚀 SOBRE MIM
 
-Meu GitHub funciona como uma pequena **aventura em constante evolução**: cada projeto é uma nova fase, cada bug é um inimigo derrotado e cada aprendizado desbloqueia uma nova habilidade.
+<img
+align="right"
+width="290"
+src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+alt="Coding animation"
+/>
+
+Olá! Eu sou a **Jamilly**, desenvolvedora e explorador do universo da tecnologia. 🚀
+
+Gosto de transformar ideias em projetos, experimentar novas tecnologias e construir experiências que sejam não apenas funcionais, mas também divertidas e memoráveis.
+
+Meu GitHub é como um pequeno **mapa de mundos digitais**:
 
 ```yaml
-player:
+traveler:
   name: "Jamilly"
-  role: "Full-Stack Developer"
+  role: "Developer"
   location: "Brasil 🇧🇷"
-  current_status: "Building..."
-  mindset: "Learn → Build → Improve → Repeat"
+  status: "Exploring..."
 
-interests:
-  - Full-Stack Development
-  - Web Development
-  - Open Source
-  - UI / UX
-  - Automation
-  - Game-inspired interfaces
+  interests:
+    - Software Development
+    - Web Development
+    - Automation
+    - Creative Technology
 
-currently_learning:
-  - "Tecnologias modernas"
-  - "Arquitetura de software"
-  - "Boas práticas"
+  philosophy:
+    - "Keep learning"
+    - "Keep building"
+    - "Keep exploring"
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚡ TECH STACK
+# 🧬 TECH STACK
 
 <div align="center">
 
-### 💻 Languages
+### ⚔️ Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge\&logo=javascript\&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-![C](https://img.shields.io/badge/C-161616?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
+<img src="https://skillicons.dev/icons?i=js,python,cpp,php&theme=dark" alt="Programming Languages"/>
+
+<br><br>
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-161616?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161616?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-161616?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+
+<br><br>
 
 ### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-161616?style=for-the-badge\&logo=node.js\&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-161616?style=for-the-badge\&logo=express\&logoColor=FFD43B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-161616?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" alt="Backend Technologies"/>
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" alt="Cloud and DevOps"/>
 
 </div>
 
 ---
 
-# 🧰 FERRAMENTAS
+# 🛠️ FERRAMENTAS DO INVENTÁRIO
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge\&logo=linux\&logoColor=FFD43B)
-![Figma](https://img.shields.io/badge/Figma-161616?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+|      🧰 Tool     | 🎯 Uso          |
+| :--------------: | :-------------- |
+|    💻 VS Code    | Development     |
+|  🐙 Git / GitHub | Version Control |
+|     🐳 Docker    | Containers      |
+|     🎨 Figma     | UI / UX         |
+|     🐧 Linux     | Environment     |
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,&theme=dark" alt="Development Tools"/>
 
 </div>
 
 ---
 
-# 🎮 PROJETOS
+<!-- # 🗺️ MEUS MUNDOS
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+ <td width="50%" valign="top">
 
-### 🏰 Projeto Alpha
+## 🌲 Forest Quest
 
-<a href="https://github.com/JamillyDS/Study-Roadme-writings.dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JamillyDS&repo=Study-Roadme-writings.dev&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
+<a href="https://github.com/SEU_USUARIO/PROJETO_1">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
+/>
+
 </a>
 
-**Descrição**
+> Um projeto criado para transformar uma ideia em uma experiência digital.
 
-> Uma landing Page simples com foco em grid.
-
-`HTML` `CSS`
+`React` `TypeScript` `Node.js`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌱 Projeto Beta
+## 💎 Crystal Core
 
-<a href="https://github.com/JamillyDS/Coffee-Web-Shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JamillyDS&repo=Coffee-Web-Shop&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
+<a href="https://github.com/SEU_USUARIO/PROJETO_2">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
+/>
+
 </a>
 
-**Descrição**
+> Uma aplicação focada em solucionar problemas reais com tecnologia.
 
-> Landing Page com foco em responsividade.
-
-`HTML` `CSS` 
+`Python` `API` `PostgreSQL`
 
 </td>
 
@@ -211,218 +242,144 @@ currently_learning:
 
 <td width="50%" valign="top">
 
-<!-- ### ⚔️ Projeto Gamma
+## ⛏️ Pixel Forge
 
 <a href="https://github.com/SEU_USUARIO/PROJETO_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
+/>
+
 </a>
 
-**Descrição**
-
-> Uma ferramenta criada para automatizar tarefas e transformar processos repetitivos.
+> Ferramenta experimental criada para automatizar tarefas e explorar novas ideias.
 
 `Python` `Automation` `Docker`
 
 </td>
 
-<td width="50%" valign="top">-->
+<td width="50%" valign="top">
 
-<!-- ### 👑 Projeto Final Boss
+## 🌠 Final Boss
 
 <a href="https://github.com/SEU_USUARIO/PROJETO_4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=dark&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
+/>
+
 </a>
 
-**Descrição**
-
-> Projeto principal em constante evolução, combinando engenharia, criatividade e aprendizado.
+> Meu projeto principal: uma combinação de aprendizado, criatividade e engenharia.
 
 `Full Stack` `Cloud` `Open Source`
 
-</td>-->
+</td>
 
 </tr>
+
 </table>
 
-</div>
+</div> -->
 
 ---
 
-# 🧠 CURRENT QUEST
+# 🎯 MISSÕES ATUAIS
 
 ```console
-╭────────────────────────────────────────────────────────────╮
-│ PLAYER@GITHUB ~ $ ./current_missions.sh                    │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ traveler@galaxy:~$ ./current_quests.sh                      │
+╰──────────────────────────────────────────────────────────────╯
 
-[ACTIVE QUESTS]
+🌙 ACTIVE QUESTS
 
-01 ▸ Aprender novas tecnologias
-02 ▸ Construir projetos mais complexos
-03 ▸ Contribuir para Open Source
-04 ▸ Melhorar arquitetura e qualidade de código
-05 ▸ Criar experiências digitais memoráveis
+[01] ▸ Aprender novas tecnologias
+[02] ▸ Construir projetos maiores
+[03] ▸ Explorar Open Source
+[04] ▸ Melhorar arquitetura de software
+[05] ▸ Criar interfaces mais criativas
+[06] ▸ Transformar ideias em experiências
 
-[XP GAIN]
+──────────────────────────────────────────────────────────────
 
-████████████████████░░░░  80%
+⭐ CURRENT XP
 
-STATUS: QUEST IN PROGRESS...
+████████████░░░░░░░░░░░░░░░░  52%
+
+──────────────────────────────────────────────────────────────
+
+STATUS: EXPLORING THE UNKNOWN...
+NEXT AREA: ??? 
 ```
 
 ---
 
-# 📊 GITHUB STATUS
+# 🌙 CURRENTLY EXPLORING
 
 <div align="center">
 
-<!--<a href="https://github.com/JamillyDS">
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=JamillyDS&show_icons=true&hide_border=true&bg_color=161616&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF&rank_icon=github"
-alt="GitHub Stats"
-/>
+```text
+        ✦
+              ·          ✧
+   ·                    .
+         ★       ·
+                    ✦
+  .        ┌───────────────┐       ·
+           │  LEARNING...  │
+  ✧        └───────────────┘
+       ·          ★              ·
+             ✦
+```
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyDS&layout=compact&hide_border=true&bg_color=161616&title_color=FFD43B&text_color=FFFFFF&langs_count=8"
-alt="Top Languages"
-/>
+### 🚀 Próxima parada
 
-</a>
-
-<br><br>-->
-
-<img
-src="https://streak-stats.demolab.com?user=JamillyDS&theme=dark&hide_border=true&background=161616&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=FFFFFF&dates=AAAAAA"
-alt="GitHub Streak"
-/>
+**Novas tecnologias • Projetos criativos  • Conhecimento**
 
 </div>
 
 ---
 
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<a href="https://github.com/JamillyDS">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=JamillyDS&bg_color=161616&color=FFD43B&line=FFD43B&point=FFFFFF&area=true&hide_border=true"
-alt="GitHub Activity Graph"
-/>
-
-</a>
-
-</div>
-
----
-
-<!--# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<a href="https://github.com/JamillyDS">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=JamillyDS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-alt="GitHub Trophies"
-/>
-
-</a>
-
-</div>
-
----
-
-# 👾 CONTRIBUTION PAC-MAN
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/JamillyDS/JamillyDS/output/pacman-contribution-graph.svg"
-alt="PacMan Contribution Graph"
-width="100%"
-/>
-
-</div>
-
-> **Nota:** para o Pac-Man funcionar, configure o workflow do repositório de perfil para gerar `pacman-contribution-graph.svg` na branch `output`.
-
---- -->
-
-# 🎯 PLAYER STATS
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**⚡ CODE**
-
-<br>
-
-`████████████████████`
-
-</td>
-
-<td align="center">
-
-**🧠 LEARNING**
-
-<br>
-
-`██████████████████░░`
-
-</td>
-
-<td align="center">
-
-**🎨 CREATIVITY**
-
-<br>
-
-`████████████████████`
-
-</td>
-
-<td align="center">
-
-**☕ COFFEE**
-
-<br>
-
-`████████████████████`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌐 SOCIAL HUB
+# 📡 SOCIAL PORTAL
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jamillyds">
-<img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/SEU_NOME">
-<img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
+<!-- <a href="https://instagram.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
+</a> -->
 
 <a href="mailto:Jamilly24tec@gmail.com">
-<img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"/>
 </a>
 
-<a href="https://github.com/JamillyDS/Portifolio">
-<img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=google-chrome&logoColor=FFD43B" alt="Portfolio"/>
+<a href="https://jamillyds.github.io/Portifolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=google-chrome&logoColor=67E8F9" alt="Portfolio"/>
 </a>
+
+</div>
+
+---
+
+# ✦ THE CONSTELLATION
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=67E8F9"
+width="70%"
+alt=""
+/>
+
+<br><br>
+
+**“The universe is huge. There is always another world to explore.”**
+
+<br>
+
+`CODE` ✦ `CREATE` ✦ `EXPLORE` ✦ `REPEAT`
 
 </div>
 
@@ -430,26 +387,20 @@ width="100%"
 
 <div align="center">
 
-### ✦ `GAME OVER?` ✦
-
-**Never. There is always another level.**
-
-<br>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=650&height=45&lines=%3E+Thanks+for+visiting+my+profile!;%3E+Keep+coding.+Keep+creating.;%3E+See+you+in+the+next+level..."
-alt="Footer Typing Animation"
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=%3E+Thanks+for+visiting+my+universe!;%3E+Keep+exploring.+Keep+creating.;%3E+See+you+in+the+next+world...+%E2%9C%A8"
+alt="Footer Animation"
 />
 
 <br><br>
 
 <img
-src="https://img.shields.io/badge/BUILT%20WITH-❤️%20%2B%20☕%20%2B%20CODE-161616?style=for-the-badge&labelColor=FFD43B&color=161616"
-alt="Built with love coffee and code"
+src="https://img.shields.io/badge/CRAFTED_WITH-☕%20%2B%20CODE%20%2B%20CURIOSITY-050816?style=for-the-badge&labelColor=67E8F9&color=050816"
+alt="Crafted with coffee code and curiosity"
 />
 
 <br><br>
 
-<sub>© 2026 JAMILLY • Crafted with pixels, code & imagination.</sub>
+<sub>© 2026 SAKAMOTO • Exploring the digital universe one commit at a time.</sub>
 
 </div>
