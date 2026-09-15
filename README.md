@@ -148,7 +148,7 @@ traveler:
 
 ### ⚔️ Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,php&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=js,python,php&theme=dark" alt="Programming Languages"/>
 
 <br><br>
 
