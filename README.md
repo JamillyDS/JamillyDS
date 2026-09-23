@@ -20,8 +20,8 @@ alt="Typing Animation"
 <br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-050816?style=for-the-badge\&logo=github\&logoColor=67E8F9)](https://github.com/JamillyDS)
-[![Followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=for-the-badge\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS)
+[![Followers](https://img.shields.io/github/followers/JamillyDS?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=JamillyDS\&style=for-the-badge\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS)
 
 <br><br>
 
