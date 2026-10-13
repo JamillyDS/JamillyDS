@@ -1,406 +1,133 @@
-<div align="center">
+# Olá! Eu sou a Jamilly 👋
 
-<!-- ╔════════════════════════════════════════════════════════╗
-     ║                     HERO / UNIVERSE                  ║
-     ╚════════════════════════════════════════════════════════╝ -->
+### Desenvolvedora em formação | Tecnologia, criatividade e resolução de problemas
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:0B1736,75:102A56,100:172554&text=✦%20COSMIC%20ADVENTURE%20✦&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Welcome%20to%20my%20digital%20universe&descAlignY=62&descSize=17&animation=fadeIn"
-width="100%"
-alt="Cosmic Adventure Banner"
-/>
+Sou apaixonada por tecnologia e desenvolvimento de software. Gosto de transformar ideias em projetos, explorar novas ferramentas e desenvolver soluções que unam funcionalidade, organização e uma boa experiência para o usuário.
 
-<br>
+Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, explorando tecnologias para aplicações web e construindo projetos para evoluir minhas habilidades na prática.
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=70&lines=%3E+HELLO%2C+TRAVELER+%F0%9F%91%8B;%3E+I'M+Jamilly+%E2%9C%A8;%3E+DEVELOPER+%7C+CREATOR+%7C+EXPLORER;%3E+BUILDING+WORLDS+WITH+CODE;%3E+WELCOME+TO+MY+GITHUB+GALAXY."
-alt="Typing Animation"
-/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-050816?style=for-the-badge\&logo=github\&logoColor=67E8F9)](https://github.com/JamillyDS)
-[![Followers](https://img.shields.io/github/followers/JamillyDS?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=JamillyDS\&style=for-the-badge\&color=67E8F9\&labelColor=050816)](https://github.com/JamillyDS)
-
-<br><br>
-
-<!-- STATUS PANEL -->
-
-<table>
-<tr>
-
-<td align="center" width="180">
-
-🌌
-**WORLD**
-
-<br>
-
-`DIGITAL`
-
-</td>
-
-<td align="center" width="180">
-
-⭐
-**LEVEL**
-
-<br>
-
-`Junior`
-
-</td>
-
-<td align="center" width="180">
-
-💎
-**XP**
-
-<br>
-
-`LOADING...`
-
-</td>
-
-<td align="center" width="180">
-
-🚀
-**STATUS**
-
-<br>
-
-`ONLINE`
-
-</td>
-
-</tr>
-</table>
-
-</div>
+- 💻 **Interesses:** desenvolvimento web, software e automação.
+- 🚀 **Foco:** aprendizado contínuo e desenvolvimento de projetos práticos.
+- 🌱 **Objetivo:** evoluir tecnicamente e contribuir para projetos desafiadores.
+- 🌎 **Localização:** Brasil.
+- ✨ **Fora do código:** criatividade, exploração de ideias e aprendizado de novas tecnologias.
 
 ---
 
-# 🌌 `WELCOME, TRAVELER`
+## 🛠️ Tecnologias e ferramentas
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                    ✦ GALAXY SYSTEM ONLINE ✦                 │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   ◇ Scanning universe............................. DONE      │
-│   ◇ Loading creativity............................ DONE      │
-│   ◇ Loading curiosity............................. DONE      │
-│   ◇ Loading imagination........................... DONE      │
-│   ◇ Searching for new adventures.................. FOUND     │
-│                                                              │
-│   CURRENT LOCATION: /github/universe                        │
-│   MISSION: CREATE • LEARN • EXPLORE                          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+As tecnologias abaixo representam as áreas que exploro no desenvolvimento. Estou sempre buscando aprofundar meus conhecimentos e aplicá-los em projetos reais.
 
-> ✦ **Every repository is a world. Every commit is a new discovery.**
+### Linguagens de programação
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,php" alt="JavaScript, Python e PHP"/>
+</p>
 
-# 👨‍🚀 SOBRE MIM
+### Desenvolvimento web
 
-<img
-align="right"
-width="290"
-src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-alt="Coding animation"
-/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="HTML, CSS, React, Tailwind CSS e Vite"/>
+</p>
 
-Olá! Eu sou a **Jamilly**, desenvolvedora e explorador do universo da tecnologia. 🚀
+### Backend e bancos de dados
 
-Gosto de transformar ideias em projetos, experimentar novas tecnologias e construir experiências que sejam não apenas funcionais, mas também divertidas e memoráveis.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" alt="Node.js, Express, MongoDB, MySQL e Redis"/>
+</p>
 
-Meu GitHub é como um pequeno **mapa de mundos digitais**:
+### Ferramentas e ambiente de desenvolvimento
 
-```yaml
-traveler:
-  name: "Jamilly"
-  role: "Developer"
-  location: "Brasil 🇧🇷"
-  status: "Exploring..."
-
-  interests:
-    - Software Development
-    - Web Development
-    - Automation
-    - Creative Technology
-
-  philosophy:
-    - "Keep learning"
-    - "Keep building"
-    - "Keep exploring"
-```
-
-<br clear="right"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" alt="Git, GitHub, Docker, Linux, VS Code e Figma"/>
+</p>
 
 ---
 
-# 🧬 TECH STACK
+## 🚀 Projetos em destaque
 
-<div align="center">
+Acredito que projetos práticos são uma das melhores formas de demonstrar conhecimentos, criatividade e capacidade de resolver problemas.
 
-### ⚔️ Languages
+Aqui, quero destacar aplicações que representem minha evolução técnica, minhas decisões de desenvolvimento e as soluções que consigo construir.
 
-<img src="https://skillicons.dev/icons?i=js,python,php&theme=dark" alt="Programming Languages"/>
+**Projeto 1 — Grid_lading_page**
 
-<br><br>
+- **Objetivo:** Estudar a manipulação de grid e estudar conceitos de responsividade.
+- **Tecnologias:** HTML e CSS.
+- **Destaque:** Projeto de um desafio que retirei do Front-End Mentor, para melhorar minhas habilidades.
+- **Links:** [Repositório](https://github.com/JamillyDS/Grid_lading_page) · [Demonstração](https://jamillyds.github.io/Grid_lading_page/)
 
-### 🌐 Frontend
+**Projeto 2 — TODO_APP**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+- **Objetivo:** Projeto Full-Stack simples com foco em desenvolver informações de tecnologias que funcionam tanto no Back quanto no Front.
+- **Tecnologias:** Vite, React, HTML, CSS, Tailwind-CSS, Node.js, PhP, Prisma, Drizzle.
+- **Destaque:** TODO simples focado no aprendizado e desenvolvimento de tecnologias Full-Stack.
+- **Links:** [Explorar projetos no GitHub](https://github.com/JamillyDS/TODO-APP)
 
-<br><br>
+**Projeto 3 - Study-Roadme-writings.dev**
 
-### ⚙️ Backend & Database
+- **Objetivo:** Landing-Page simples, com foco em organização de layout e desenvolvimento com base em um design de um desafio do Study-Roadme-Writings.
+- **Tecnologias:** HTML e CSS.
+- **Destaque:** Estruturação quase perfeita😅.
+- **Links:** [Explorar projetos no GitHub](https://github.com/JamillyDS/Study-Roadme-writings.dev)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" alt="Backend Technologies"/>
-
-<br><br>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" alt="Cloud and DevOps"/>
-
-</div>
-
----
-
-# 🛠️ FERRAMENTAS DO INVENTÁRIO
-
-<div align="center">
-
-|      🧰 Tool     | 🎯 Uso          |
-| :--------------: | :-------------- |
-|    💻 VS Code    | Development     |
-|  🐙 Git / GitHub | Version Control |
-|     🐳 Docker    | Containers      |
-|     🎨 Figma     | UI / UX         |
-|     🐧 Linux     | Environment     |
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,&theme=dark" alt="Development Tools"/>
-
-</div>
 
 ---
 
-<!-- # 🗺️ MEUS MUNDOS
+## 📊 Atividade no GitHub
 
-<div align="center">
-
-<table>
-
-<tr>
-
- <td width="50%" valign="top">
-
-## 🌲 Forest Quest
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_1">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
-/>
-
-</a>
-
-> Um projeto criado para transformar uma ideia em uma experiência digital.
-
-`React` `TypeScript` `Node.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💎 Crystal Core
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_2">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
-/>
-
-</a>
-
-> Uma aplicação focada em solucionar problemas reais com tecnologia.
-
-`Python` `API` `PostgreSQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⛏️ Pixel Forge
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_3">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
-/>
-
-</a>
-
-> Ferramenta experimental criada para automatizar tarefas e explorar novas ideias.
-
-`Python` `Automation` `Docker`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌠 Final Boss
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_4">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=dark&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=67E8F9&border_color=1E3A5F"
-/>
-
-</a>
-
-> Meu projeto principal: uma combinação de aprendizado, criatividade e engenharia.
-
-`Full Stack` `Cloud` `Open Source`
-
-</td>
-
-</tr>
-
-</table>
-
-</div> -->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JamillyDS&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"
+    alt="Estatísticas do GitHub"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyDS&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9"
+    alt="Linguagens mais utilizadas no GitHub"
+    height="165"
+  />
+</p>
 
 ---
 
-# 🎯 MISSÕES ATUAIS
+## 🎯 No que estou focada
 
-```console
-╭──────────────────────────────────────────────────────────────╮
-│ traveler@galaxy:~$ ./current_quests.sh                      │
-╰──────────────────────────────────────────────────────────────╯
-
-🌙 ACTIVE QUESTS
-
-[01] ▸ Aprender novas tecnologias
-[02] ▸ Construir projetos maiores
-[03] ▸ Explorar Open Source
-[04] ▸ Melhorar arquitetura de software
-[05] ▸ Criar interfaces mais criativas
-[06] ▸ Transformar ideias em experiências
-
-──────────────────────────────────────────────────────────────
-
-⭐ CURRENT XP
-
-████████████░░░░░░░░░░░░░░░░  52%
-
-──────────────────────────────────────────────────────────────
-
-STATUS: EXPLORING THE UNKNOWN...
-NEXT AREA: ??? 
-```
+- 📚 Aprofundar meus conhecimentos em programação e desenvolvimento de software.
+- 🧩 Desenvolver projetos que resolvam problemas reais.
+- 🏗️ Aprimorar organização de código, arquitetura e boas práticas.
+- 🤝 Aprender a colaborar em projetos e contribuir com a comunidade.
+- 🌱 Construir um portfólio que demonstre minha evolução técnica.
 
 ---
 
-# 🌙 CURRENTLY EXPLORING
+## 🌐 Vamos nos conectar?
 
-<div align="center">
+Estou aberta a conexões profissionais, troca de conhecimentos e oportunidades para aprender, colaborar e crescer na área de tecnologia.
 
-```text
-        ✦
-              ·          ✧
-   ·                    .
-         ★       ·
-                    ✦
-  .        ┌───────────────┐       ·
-           │  LEARNING...  │
-  ✧        └───────────────┘
-       ·          ★              ·
-             ✦
-```
-
-### 🚀 Próxima parada
-
-**Novas tecnologias • Projetos criativos  • Conhecimento**
-
-</div>
-
----
-
-# 📡 SOCIAL PORTAL
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jamillyds">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
-</a>
-
-<!-- <a href="https://instagram.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
-</a> -->
-
-<a href="mailto:Jamilly24tec@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"/>
-</a>
-
-<a href="https://jamillyds.github.io/Portifolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=google-chrome&logoColor=67E8F9" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-# ✦ THE CONSTELLATION
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=67E8F9"
-width="70%"
-alt=""
-/>
-
-<br><br>
-
-**“The universe is huge. There is always another world to explore.”**
-
-<br>
-
-`CODE` ✦ `CREATE` ✦ `EXPLORE` ✦ `REPEAT`
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/jamillyds">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/JamillyDS">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:Jamilly24tec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://jamillyds.github.io/Portifolio">
+    <img src="https://img.shields.io/badge/Portfólio-Explorar-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=%3E+Thanks+for+visiting+my+universe!;%3E+Keep+exploring.+Keep+creating.;%3E+See+you+in+the+next+world...+%E2%9C%A8"
-alt="Footer Animation"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050816,100:102A56" width="100%" alt="Rodapé azul escuro"/>
 
-<br><br>
+**Transformando curiosidade em conhecimento e ideias em projetos.** ✨
 
-<img
-src="https://img.shields.io/badge/CRAFTED_WITH-☕%20%2B%20CODE%20%2B%20CURIOSITY-050816?style=for-the-badge&labelColor=67E8F9&color=050816"
-alt="Crafted with coffee code and curiosity"
-/>
-
-<br><br>
-
-<sub>© 2026 SAKAMOTO • Exploring the digital universe one commit at a time.</sub>
+*Um commit de cada vez.*
 
 </div>
